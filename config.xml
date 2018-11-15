@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+	xmlns:gap   = "http://phonegap.com/ns/1.0"
+	id          = "com.gs.helloworld"
+	versionCode = "1"
+	version     = "1.0.0" >
+
+<name>Hello World Example</name>
+<description>
+	An Example For Phone Gap Build docs.
+</description>
+
+<author href="https://build.phonegap.com" email="mygym7514@gmail.com"> Asheer Goburdhun
+</author>
+</widget>
